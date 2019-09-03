@@ -2,7 +2,7 @@ name := "subsearch"
 
 assemblyJarName in assembly := s"subsearch-0.2.0.jar"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.13.0"
 
 scalacOptions ++= Seq("-unchecked", "-deprecation")
 
